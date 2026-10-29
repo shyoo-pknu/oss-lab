@@ -5,3 +5,5 @@ print("Hello, Git!")
 greet("홍길동")
 
 print("Bye")
+
+print("debug")
